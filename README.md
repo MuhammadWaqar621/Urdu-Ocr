@@ -1,16 +1,5 @@
 # UTRNet: High-Resolution Urdu Text Recognition
 
-[![UTRNet](https://img.shields.io/badge/UTRNet:%20High--Resolution%20Urdu%20Text%20Recognition-blueviolet?logo=github&style=flat-square)](https://github.com/abdur75648/UTRNet-High-Resolution-Urdu-Text-Recognition)
-[![Website](https://img.shields.io/badge/Website-Visit%20Here-brightgreen?style=flat-square)](https://abdur75648.github.io/UTRNet/)
-[![arXiv](https://img.shields.io/badge/arXiv-2306.15782-darkred.svg)](https://arxiv.org/abs/2306.15782)
-[![SpringerLink](https://img.shields.io/badge/Springer-Page-darkblue.svg)](https://link.springer.com/chapter/10.1007/978-3-031-41734-4_19)
-[![SpringerLink](https://img.shields.io/badge/Springer-PDF-blue.svg)](https://rdcu.be/dkbIF)
-
-**Official Implementation of the paper *"UTRNet: High-Resolution Urdu Text Recognition In Printed Documents"***
-
-The Poster:
-
-![P2 49-poster](https://github.com/abdur75648/UTRNet-High-Resolution-Urdu-Text-Recognition/assets/66300465/dea7c7a6-5e13-400f-8ba7-8356a794897d)
 
 
 ## Using This Repository
@@ -23,7 +12,7 @@ The Poster:
 ### Installation
 1. Clone the repository
 ```
-git clone https://github.com/abdur75648/UTRNet-High-Resolution-Urdu-Text-Recognition.git
+git clone https://github.com/MuhammadWaqar621/Urdu-Ocr.git
 ```
 
 2. Install the requirements
@@ -119,49 +108,9 @@ This was developed by integrating the UTRNet text recognition model with a text 
 ![website](https://github.com/abdur75648/UTRNet-High-Resolution-Urdu-Text-Recognition/assets/66300465/511aeffe-d9b3-41aa-8150-ab91f398ae49)
 
 
-# Updates
-* 01/01/21 - Project Initiated
-* 21/11/22 - Abstract accepted at [WIDAFIL-ICFHR 2022](https://icfhr2022.org/wtc.php)
-* 12/12/22 - Repository Created
-* 20/12/22 - Results Updated
-* 19/04/23 - Paper accepted at [ICDAR 2023](https://icdar2023.org/)
-* 23/08/23 - Poster presentation at [ICDAR 2023](https://icdar2023.org/)
-
-# Acknowledgements
-* This repository is based on [deep-text-recognition-benchmark](https://github.com/clovaai/deep-text-recognition-benchmark)
-* We acknowledge the [Rekhta Foundation](https://rekhtafoundation.org/) and the personal collections of [Arjumand Ara](https://du-in.academia.edu/ArjumandAra) for the scanned images and Noor Fatima and Mohammed Usman for the dataset and the manual transcription.
-* We also thank all the members of the [Computer Vision Group, IIT Delhi](https://vision-iitd.github.io/) for their support and guidance.
 
 ## Contact
-* [Abdur Rahman](https://www.linkedin.com/in/abdur-rahman-0b84341a0/)
-* [Prof. Arjun Ghosh](https://web.iitd.ac.in/~arjunghosh/)
-* [Prof. Chetan Arora](https://www.cse.iitd.ac.in/~chetan/)
+* [Muhammad Waqar](https://www.linkedin.com/in/muhammad-waqar-1a594411a/)
+* [Email](waqarsahi621@gmail.com)
 
-## Note
-This is an official repository of the project. The copyright of the dataset, code & models belongs to the authors. They are for research purposes only and must not be used for any other purpose without the author's explicit permission.
 
-## Citation
-If you use the code/dataset, please cite the following paper:
-
-```BibTeX
-@InProceedings{10.1007/978-3-031-41734-4_19,
-		author="Rahman, Abdur
-		and Ghosh, Arjun
-		and Arora, Chetan",
-		editor="Fink, Gernot A.
-		and Jain, Rajiv
-		and Kise, Koichi
-		and Zanibbi, Richard",
-		title="UTRNet: High-Resolution Urdu Text Recognition in Printed Documents",
-		booktitle="Document Analysis and Recognition - ICDAR 2023",
-		year="2023",
-		publisher="Springer Nature Switzerland",
-		address="Cham",
-		pages="305--324",
-		isbn="978-3-031-41734-4",
-		doi="https://doi.org/10.1007/978-3-031-41734-4_19"
-}
-```
-
-### License
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/). This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/) for Noncommercial (academic & research) purposes only and must not be used for any other purpose without the author's explicit permission.
